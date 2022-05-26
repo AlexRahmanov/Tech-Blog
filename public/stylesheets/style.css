@@ -12,7 +12,7 @@ body, html {
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #00b3b3;
   font-weight: bold;
   transition: color .1s;
 }
@@ -22,7 +22,7 @@ a:hover {
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #49cc28;
   border: 0;
   padding: 1%;
   color: white;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background-color: #9db5d3;
 }
 
 .post-list {
@@ -80,7 +80,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 0 1%;
-  background-color: #bbdbff;
+  background-color: #8affce;
 }
 
 header h1 {
@@ -98,7 +98,7 @@ main {
   padding: 10;
   cursor: pointer;
   text-decoration: none;
-  color: #225ca3;
+  color: #00b3b3;
   font-size: 100%;
   font-weight: bold;
   transition: color .1s;
@@ -166,5 +166,5 @@ footer {
   justify-content: center;
   padding: 1%;
   font-size: 110%;
-  background-color: #bbdbff;
+  background-color: #8affce;
 }
