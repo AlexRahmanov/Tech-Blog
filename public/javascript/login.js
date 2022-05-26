@@ -1,3 +1,4 @@
+//login logic here
 async function loginFormHandler(event) {
   event.preventDefault();
 
@@ -22,6 +23,7 @@ async function loginFormHandler(event) {
   }
 }
 
+//signup logic here
 async function signupFormHandler(event) {
   event.preventDefault();
 

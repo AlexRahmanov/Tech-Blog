@@ -1,6 +1,9 @@
 async function newFormHandler(event) {
+  
+  //prevent default action
   event.preventDefault();
 
+  //find attributes
   const title = document.querySelector('input[name="post-title"]').value;
   const post_content = document.querySelector('textarea[name="post-content"]').value;
 

@@ -1,6 +1,9 @@
 async function editFormHandler(event) {
+
+  //prevent default action
   event.preventDefault();
 
+  //find attributes
   const title = document.querySelector('input[name="post-title"]').value.trim();
   const post_content = document.querySelector('textarea[name="post-content"]').value;
 
