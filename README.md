@@ -26,7 +26,7 @@ If you are cloning this repository, run the following commands at the root of yo
 * bcrypt package - An npm package that hash passwords.
 * express-session - A package that stores the session data on the client in a cookie.
 * connect-session-sequelize - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-* MYSQL2 - MySQL2 project is a continuation of MySQL-Native. Protocol parser code was rewritten from scratch and api changed to match popular mysqljs/mysql.
+* MYSQL2 - project is a continuation of MySQL-Native. Protocol parser code was rewritten from scratch and api changed to match popular mysqljs/mysql.
 
 
 # User Story:
